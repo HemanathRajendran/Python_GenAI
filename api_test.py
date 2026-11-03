@@ -1,4 +1,4 @@
-from api_test import FastAPI
+from fastapi import FastAPI
 
 app = FastAPI()
 
