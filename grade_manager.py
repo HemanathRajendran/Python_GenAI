@@ -58,3 +58,7 @@ def show_results():
     average = sum(marks) / len(marks)
     highest = max(marks)
     lowest = min(marks)
+
+add_student()
+show_results()
+
