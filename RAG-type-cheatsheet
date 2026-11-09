@@ -1,13 +1,22 @@
 Vector Search = Meaning Match
+                ✅ Similar Meaning Search
 
 RAG          = Vector Search + Generate
-
-RAG types:
+                ✅ Basic Document Chatbot
 
 Self-RAG     = Vector Search + Generate + Self Check
+                ✅ High Accuracy Systems
 
 CRAG         = Vector Search + Context Check + Generate
+                ✅ Verify Retrieved Context
 
-Fusion RAG   = Multiple Queries + Multiple Vector Searches + Fusion/Merge + Reranker + Generate
+Fusion RAG   = Multiple Queries + Multiple Vector Searches
+             + Fusion/Merge
+             + Reranker
+             + Generate
+                ✅ Complex Multi-Step Questions
 
-Hybrid RAG   = BM25 + Vector Search + Reranker + Generate.  BM25 is a keyword search and Vector Search is Meaning Match. Since combination its a Hybrid RAG.
+Hybrid RAG   = BM25 (Keyword Search) + Vector Search (Meaning Match)
+             + Reranker
+             + Generate
+                ✅ Enterprise Search / Code Search
