@@ -32,3 +32,143 @@
     "details": "ultra realistic skin textures, intricate textile details, authentic Tamil architecture, award-winning photography"
   }
 }
+
+#2nd image prompt
+{
+  "subject": "Multi-generational Tamil family celebrating Pongal",
+  "setting": {
+    "place": "Thanjavur, Tamil Nadu",
+    "era": "Present Day",
+    "time_of_day": "Early Sunrise"
+  },
+  "lighting": "Soft golden sunrise with volumetric light rays",
+  "camera": {
+    "shot": "Wide Shot",
+    "lens": "35mm",
+    "angle": "Eye Level"
+  },
+  "palette": [
+    "Temple Gold",
+    "Paddy Green",
+    "Terracotta Orange"
+  ],
+  "style": "National Geographic documentary realism with cinematic photography",
+  "aspect_ratio": "16:9",
+  "subject_details": {
+    "clothing": "Kanchipuram silk sarees and traditional white veshtis",
+    "festival": "Thai Pongal",
+    "activities": [
+      "Pongal pot overflowing",
+      "Kolam drawing",
+      "Nadaswaram performance",
+      "Harvest celebration"
+    ]
+  },
+  "background": {
+    "architecture": "Thanjavur-style temple gopuram",
+    "nature": [
+      "Paddy fields",
+      "Coconut trees",
+      "Traditional village homes"
+    ]
+  },
+  "avoid": [
+    "North Indian attire",
+    "Modern city buildings",
+    "Text overlays",
+    "Watermarks",
+    "Cartoon style",
+    "Low resolution"
+  ]
+}
+
+
+
+#3rd image prompt
+
+{
+  "subject": "Multi-generational Tamil family celebrating Pongal",
+  "setting": {
+    "place": "Thanjavur, Tamil Nadu",
+    "era": "Present Day",
+    "time_of_day": "Early Sunrise"
+  },
+  "lighting": "Soft golden sunrise with volumetric light rays",
+  "camera": {
+    "shot": "closeup",
+    "lens": "35mm",
+    "angle": "Eye Level"
+  },
+  "palette": [
+    "Temple Gold",
+    "Paddy Green",
+    "Terracotta Orange"
+  ],
+  "style": "National Geographic documentary realism with cinematic photography",
+  "aspect_ratio": "16:9",
+  "subject_details": {
+    "clothing": "Kanchipuram silk sarees and traditional white veshtis",
+    "festival": "Thai Pongal",
+    "activities": [
+      "Pongal pot overflowing",
+      "Kolam drawing",
+      "Nadaswaram performance",
+      "Harvest celebration"
+    ]
+  },
+  "background": {
+    "architecture": "Thanjavur-style temple gopuram",
+    "nature": [
+      "Paddy fields",
+      "Coconut trees",
+      "Traditional village homes"
+    ]
+  },
+  "avoid": [
+    "North Indian attire",
+    "Modern city buildings",
+    "Text overlays",
+    "Watermarks",
+    "Cartoon style",
+    "Low resolution"
+  ]
+}
+
+#video prompt
+
+{
+  "subject": "Multi-generational Tamil family celebrating Pongal",
+  "setting": {
+    "place": "Thanjavur, Tamil Nadu",
+    "era": "Present Day",
+    "time_of_day": "Early Sunrise"
+  },
+  "lighting": "Soft golden sunrise with volumetric light rays",
+  "camera": {
+    "shot": "Wide Shot",
+    "lens": "35mm",
+    "angle": "Eye Level"
+  },
+  "palette": [
+    "Temple Gold",
+    "Paddy Green",
+    "Terracotta Orange"
+  ],
+  "style": "National Geographic documentary realism with cinematic photography",
+  "aspect_ratio": "16:9",
+  "subject_details": {
+    "clothing": "Kanchipuram silk sarees and traditional white veshtis",
+    "festival": "Thai Pongal"
+  },
+  "motion": {
+    "subject_motion": "Families celebrating as Pongal boils over, Bharatanatyam dancers performing and Nadaswaram artists playing music",
+    "camera_move": "Slow drone forward movement toward temple gopuram",
+    "duration_seconds": 5
+  },
+  "avoid": [
+    "North Indian attire",
+    "Modern buildings",
+    "Text overlays",
+    "Watermarks"
+  ]
+}
